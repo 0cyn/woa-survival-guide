@@ -4,14 +4,21 @@ Not all builds provided here are official.
 
 # Web Browsers
 
-### Chrome
+### Chrome (Chromium)
 
 Chrome is not available yet. The code is complete, however a disagreement between megacorps is preventing it from release.
 
-**Workaround: ** Chromium has however been released. It is the engine Chrome is built on, is compatible with all Chrome extensions and such, and has the same UI.
+**Workaround: ** Chromium has however been released. It is the open-sourced engine Chrome is built on.
+
+Full google integration requires some setup.
 
 Download available here: 
 https://chromium.woolyss.com/#windows-on-arm
+
+Set up Google services:
+http://www.chromium.org/developers/how-tos/api-keys
+
+(This is required for stuff like search autocomplete, Sync/login, etc.)
 
 
 ### Firefox
@@ -48,7 +55,7 @@ https://code.visualstudio.com/docs/?dv=win32arm64user
 
 ### Python 
 
-Python has been "unofficially" compiled for arm64. This build is automatically updated as the official one is. There is not much different about it from the official one, if anything.
+Python has been "unofficially" compiled for arm64. This build is automatically updated as the official one is. Haven't found any issues thus far.
 
 Download it here
 
