@@ -31,6 +31,8 @@ http://www.chromium.org/developers/how-tos/api-keys
 
 ### Firefox
 
+Firefox runs **slightly** better on arm64 (or probably just in general). 
+
 Released arm support as a beta, download it here:
 
 https://www.mozilla.org/en-US/firefox/channel/desktop/#beta
@@ -42,16 +44,19 @@ https://www.mozilla.org/en-US/firefox/channel/desktop/#beta
 
 ## Web App Workaround
 
+Electron x86/x64 emulation experience is godawful and not worth using whatsoever. 
+
 Many Electron apps haven't been updated. Here is an incredibly convenient workaround for this:
 https://www.groovypost.com/howto/using-web-apps-new-chromium-edge-windows-10/
 
+
 ### Spotify
 
-Spotify hasn't been updated. You can use the Edge Web App functionality as a workaround for native performance. 
+Use the web app workaround above.
 
 ### Discord
 
-Discord hasn't been updated. You can use the Edge web app workaround mentioned above as a workaround.
+Use the web app workaround.
 
 # Development IDEs
 
@@ -137,3 +142,21 @@ https://github.com/driver1998/tightvnc-gpl-woa/releases/download/v2.8.11/tightvn
 ### VLC
 
 http://people.videolan.org/~jb/Builds/ARM/vlc-4.0.0-dev-20180508-aarch64.zip
+
+# Graphic Design
+
+### Photopea
+
+This is an almost 1:1 recreation of photoshop in the browser. It's also free. While I'm personally a photoshop junkie, this website is without a doubt currently a better experience on Windows on ARM than Photoshop.
+
+If you're frustrated about GIMP not being available, check this site out first.
+
+https://www.photopea.com/
+
+### Photoshop
+
+Adobe CC has released a beta version of Photoshop compiled for ARM64. Install Adobe CC and it'll be the only* Available app on the menu.
+
+### Lightroom
+
+Lightroom is also available compiled for arm64
