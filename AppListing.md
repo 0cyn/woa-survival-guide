@@ -2,6 +2,8 @@
 
 Not all builds provided here are official. 
 
+Ctrl+F reccomended. this list will hopefully continue to grow.
+
 # Pinball
 
 Works fine (less than 50ms delay on controls but you get very used to it) in the x86 emulator.
@@ -131,3 +133,7 @@ https://github.com/driver1998/filezilla-woa/releases/download/v3.48.0/filezilla-
 ### TightVNC
 
 https://github.com/driver1998/tightvnc-gpl-woa/releases/download/v2.8.11/tightvnc-2.8.11-gpl-win-arm64.zip
+
+### VLC
+
+http://people.videolan.org/~jb/Builds/ARM/vlc-4.0.0-dev-20180508-aarch64.zip
