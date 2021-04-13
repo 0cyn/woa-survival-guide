@@ -47,9 +47,23 @@ Discord hasn't been updated. You can use the Edge web app workaround mentioned a
 
 # Development IDEs
 
+VS Code + plugins are likely your best bet. 
+
 ### VS Code
 
 https://code.visualstudio.com/docs/?dv=win32arm64user
+
+### IntelliJ 
+
+You can use the JDK in WSL, plus a X window server in Windows to get IntelliJ running native.
+
+Xming works, X410 works better.
+
+[This guide pretty much works](https://www.tomaszmik.us/2020/01/26/intellij-on-wsl/)
+[This one does too](https://www.mdoninger.de/2020/06/06/use-intellij-on-surfacexpro.html)
+
+If you're on older Snapdragon laptops, follow 
+https://github.com/KritantaDev/woa-survival-guide/blob/master/WSL.md
 
 # Development languages
 
@@ -75,8 +89,6 @@ I consider this a hack. But if it works, it works. I haven't been able to get WS
 
 This is a guide on how to do it for IntelliJ IDEs: https://www.mdoninger.de/2020/06/06/use-intellij-on-surfacexpro.html
 
-
-
 ### Go
 
 Unofficial. Version 1.16 was compiled here, download from Releases tab. 
@@ -95,9 +107,7 @@ https://unofficial-builds.nodejs.org/download/release/v15.8.0/
 
 I was able to find next to nothing about a native php build for WoA. 
 
-TODO: test PHP running in WSL
-
-
+Works fine in WSL.
 
 # Tools
 
