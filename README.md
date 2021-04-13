@@ -1,4 +1,6 @@
-General survival guide for WoA
+general survival guide for WoA
+
+this isn't a walkthrough; anything i've spent more than 30 minutes trying to figure out, i've documented and thrown in here, in the hopes others dont have to also waste their time on it.
 
 ### WSL setup on older cpus
 
