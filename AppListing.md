@@ -2,6 +2,12 @@
 
 Not all builds provided here are official. 
 
+# Pinball
+
+Works fine (less than 50ms delay on controls but you get very used to it) in the x86 emulator.
+
+https://www.groovypost.com/wp-content/uploads/static/downloads/3d_pinball_for_windows_space_cadet.exe
+
 # Web Browsers
 
 ### Chrome (Chromium)
